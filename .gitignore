@@ -1,0 +1,4 @@
+node_modules   
+# node_module and .env file ko kbhi bhi github pr upload ni krna hai
+# uske liye hum ye file .gitignore create krege and usme file name likh dena h konsi push ni krna hain 
+.env 
